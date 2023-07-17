@@ -1,0 +1,8 @@
+C:\Users\Cetin\Desktop\YAZILIM\turkcell\metinapp\metinapp\bin\Debug\metinapp.exe.config
+C:\Users\Cetin\Desktop\YAZILIM\turkcell\metinapp\metinapp\bin\Debug\metinapp.exe
+C:\Users\Cetin\Desktop\YAZILIM\turkcell\metinapp\metinapp\bin\Debug\metinapp.pdb
+C:\Users\Cetin\Desktop\YAZILIM\turkcell\metinapp\metinapp\obj\Debug\metinapp.csproj.AssemblyReference.cache
+C:\Users\Cetin\Desktop\YAZILIM\turkcell\metinapp\metinapp\obj\Debug\metinapp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Cetin\Desktop\YAZILIM\turkcell\metinapp\metinapp\obj\Debug\metinapp.csproj.CoreCompileInputs.cache
+C:\Users\Cetin\Desktop\YAZILIM\turkcell\metinapp\metinapp\obj\Debug\metinapp.exe
+C:\Users\Cetin\Desktop\YAZILIM\turkcell\metinapp\metinapp\obj\Debug\metinapp.pdb
